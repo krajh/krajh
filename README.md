@@ -68,9 +68,10 @@
 
 <br/><br/>
 
-<!-- Trophies · tokyonight (closest kanagawa-adjacent built-in theme) · column=4 for prominent cards on mobile -->
+<!-- Trophies · tokyonight (closest kanagawa-adjacent built-in theme) · column=4 for prominent cards on mobile
+     Note: using fork-two mirror (upstream github-profile-trophy.vercel.app returned DEPLOYMENT_DISABLED 2026-06-12) -->
 <img
-  src="https://github-profile-trophy.vercel.app/?username=krajh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+  src="https://github-profile-trophy-fork-two.vercel.app/?username=krajh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
   alt="GitHub Trophies"
 />
 
