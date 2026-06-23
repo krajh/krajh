@@ -33,10 +33,6 @@
 
 ---
 
-### <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krajh/krajh/main/profile-3d-contrib/profile-gitblock-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krajh/krajh/main/profile-3d-contrib/profile-gitblock.svg"><img alt="Git contribution block" src="https://raw.githubusercontent.com/krajh/krajh/main/profile-3d-contrib/profile-gitblock-dark.svg" width="100%"></picture></sub>
-
----
-
 <div align="center">
 
 ## 📊 Activity & Stats
