@@ -6,6 +6,8 @@
   <rect width="1200" height="260" fill="#f5f1e0"/>
 
   <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+    <!-- textLength pins the wordmark width, so it cannot shift with the reader's installed
+         mono font. Change it whenever the text changes: about 47 units per character. -->
     <text x="96" y="134" fill="#545464" font-size="76" font-weight="500"
           textLength="236" lengthAdjust="spacingAndGlyphs">krajh</text>
     <text x="98" y="176" fill="#716e61" font-size="22" letter-spacing="0.02em">Kailash Rajh</text>
