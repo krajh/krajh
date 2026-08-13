@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t">
+  <title id="t">krajh — Kailash Rajh</title>
+
+  <!-- Kanagawa Lotus, paper lightened so it does not shout beside GitHub's white -->
+  <!-- #f5f1e0 paper · lotusInk1 #545464 · lotusGray #716e61 · lotusRed #c84053 -->
+  <rect width="1200" height="260" fill="#f5f1e0"/>
+
+  <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+    <text x="96" y="134" fill="#545464" font-size="76" font-weight="500"
+          textLength="236" lengthAdjust="spacingAndGlyphs">krajh</text>
+    <text x="98" y="176" fill="#716e61" font-size="22" letter-spacing="0.02em">Kailash Rajh</text>
+  </g>
+
+  <!-- one stroke: a long flat lead-in, a single asymmetric crest clear of the type, flat again -->
+  <path d="M 96 220 H 300 C 356 220 362 176 404 176 C 450 176 462 220 528 220 H 1104"
+        fill="none" stroke="#c84053" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
